@@ -130,3 +130,7 @@ dmypy.json
 .idea/
 *.swp
 *.swo
+
+# uv
+.uv/
+uv.lock
