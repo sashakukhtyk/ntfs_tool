@@ -20,16 +20,10 @@ A Python GUI application for efficiently copying files and directories with prog
 ## Installation
 
 1. Clone or download this repository
-2. Install dependencies using pip:
+2. Install dependencies using uv:
 
 ```bash
-pip install -e .
-```
-
-Or install dependencies manually:
-
-```bash
-pip install pyside6>=6.10.1
+uv sync
 ```
 
 ## Usage
@@ -37,7 +31,7 @@ pip install pyside6>=6.10.1
 Run the application:
 
 ```bash
-python main.py
+uv run main.py
 ```
 
 ### How to Use
