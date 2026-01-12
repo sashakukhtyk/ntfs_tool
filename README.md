@@ -78,8 +78,8 @@ Current version: 0.1.0
 
 ## License
 
-[Add your license information here]
+This project is licensed under the MIT License.
 
 ## Contributing
 
-[Add contribution guidelines here]
+@okukhtyk
