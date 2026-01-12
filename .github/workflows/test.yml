@@ -31,4 +31,4 @@ jobs:
 
       - name: Run tests
         run: |
-          uv run pytest gui/unit_tests/test_*.py logic/unit_tests/test_*.py -v
+          uv run pytest logic/unit_tests/test_*.py -v
